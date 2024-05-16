@@ -1,0 +1,16 @@
+langchain-openai
+langchain-core
+tiktoken
+langchain
+langchain-community
+chainlit
+uvicorn
+pymupdf
+qdrant-client
+python-dotenv
+fastapi
+pypdf
+fastapi
+python-multipart
+python-jobspy
+langgraph
