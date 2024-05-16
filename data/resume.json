@@ -1,0 +1,89 @@
+{
+    "Contact_Information": {
+      "Name": "Santhosh Maila",
+      "Email": "santhosh.ml@gmail.com",
+      "Phone": "310-666-7446",
+      "LinkedIn": "https://www.linkedin.com/in/santhosh-maila"
+    },
+    "About_Me": {
+      "Summary": "Over the past 20 years I have continuously challenged myself with new languages, frameworks and methodologies. A full stack web developer and have recently been working more with Angular, React/react-native, AI/ML, Android, Blockchain/Hyperledger Fabric and Composer. An expert in front-end client-side technologies, backend server-side technologies and the database technologies."
+    },
+    "Work_Experience": {
+      "Oportun": {
+        "Title": "Software Developer (IC)",
+        "Duration": "09/2021 - Present",
+        "Responsibilities": "Built client facing loan origination platform (https://apply.oportun.com/home)"
+      },
+      "Liste Software": {
+        "Title": "Founder",
+        "Duration": "03/2020 - 11/2021"
+      },
+      "Google": {
+        "Title": "SW Engineer",
+        "Duration": "03/2018 – 03/2020",
+        "Responsibilities": "Designed and Build the Conceptual Captions frontend using Angular6 (http://ai.google.com/research/ConceptualCaptions). Built FE for Google Crowdsourcing platform (https://crowdsource.google.com/)"
+      },
+      "Western Digital": {
+        "Title": "Principle Engineer - building your own private cloud",
+        "Duration": "07/2016 – 03/2018",
+        "Responsibilities": "Built the cloud web platform using ReactJS/Redux/React-forms (www.mycloud.com). Built the IOS/Android application using React Native (https://play.google.com/store/apps/details?id=com.wdc.mycloud&hl=en, https://itunes.apple.com/us/app/my-cloud-home/id1237361683?mt=8)"
+      },
+      "Bookbild": {
+        "Title": "Co-Founder, Lead Developer - Blockchain for Middle Market finspace",
+        "Duration": "03/2016 – 07/2018",
+        "Responsibilities": "Used Hyperledger Fabric/Composer to build a blockchain platform for their business needs. Used Angular4 as a Front end for Blockchain UI (http://bookbild.com)"
+      },
+      "Walmart-labs": {
+        "Title": "UI developer/Lead - rebuilding Samsclub.com!",
+        "Duration": "12/2015 – 07/2016",
+        "Responsibilities": "Worked on migrating samsclub.com from the legacy tech stack (Java, JSP,…) using ReactJS, redux, NodeJS"
+      },
+      "Hewlett Packard": {
+        "Title": "SME, Architecture/Engineering Lead - IOT (Wearables) - Movado/Titan/Issac Mizrahi Smart watch Android apps",
+        "Duration": "04/2014 – 12/2015",
+        "Responsibilities": "Developed complete app for the smart watches with a 3 member team from the scratch (in 4 months)"
+      },
+      "Proteus Digital Health": {
+        "Title": "Principal Software Engineer",
+        "Duration": "01/2013 – 04/2014",
+        "Responsibilities": "Architected and implemented an FDA approved Android app which can interact with Bluetooth enabled Medical Patch and Cloud to exchange data."
+      }
+    },
+    "Education": {
+      "Master_of_Science_in_Computer_Science": "Yes",
+      "Diploma_in_Business_Negotiations": "Yes"
+    },
+    "Skills": {
+      "Technical_Skills": [
+        "Angular",
+        "TypeScript",
+        "Python (Numpy, scikit-learn, keras, PyTorch, Pandas, TensorFlow)",
+        "RxJS",
+        "React/React-Native",
+        "Redux/Flux",
+        "Hyperledger Fabric/Composer",
+        "Blockchain",
+        "Node.js",
+        "JavaScript",
+        "IOT",
+        "Java",
+        "Android",
+        "AWS",
+        "GCP",
+        "Application Architecture",
+        "CSS3",
+        "REST",
+        "SQL",
+        "NOSQL (MongoDB, CouchDB)"
+      ]
+    },
+    "Certificates": {
+      "Sun_Certified_Java_Programmer": "Yes",
+      "Sun_Certified_Enterprise_Architect": "Yes",
+      "Sun_Certified_Developer_for_Java_Web_Services": "Yes"
+    },
+    "Projects": null,
+    "Achievements": null,
+    "Interests": null,
+    "Volunteer": null
+  }
