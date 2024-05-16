@@ -1,0 +1,6 @@
+.files
+__pycache__
+.env
+.gitattributes
+README.md
+Dockerfile
